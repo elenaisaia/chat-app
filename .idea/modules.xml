@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chat-api/chat-api.iml" filepath="$PROJECT_DIR$/chat-api/chat-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-notification/chat-notification.iml" filepath="$PROJECT_DIR$/chat-notification/chat-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-webclient/chat-webclient.iml" filepath="$PROJECT_DIR$/chat-webclient/chat-webclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/team-project-isaia-elena.iml" filepath="$PROJECT_DIR$/.idea/team-project-isaia-elena.iml" />
+    </modules>
+  </component>
+</project>

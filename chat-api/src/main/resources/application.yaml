@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: chat-api
+  datasource:
+    url: jdbc:postgresql://localhost:5432/wsmt_chat
+    username: postgres
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
